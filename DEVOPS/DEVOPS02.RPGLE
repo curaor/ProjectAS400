@@ -3,4 +3,4 @@
 00050C     *MDY          MOVE      myDate8       myDate
 00050C                   dsply                   myDate
 00070C                   seton                                        lr
-00070 *61023     C* Final  7:25
+00070 * Devops 02
