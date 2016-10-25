@@ -21,4 +21,4 @@ ftp -n -s:ftpcmd.dat 9.51.97.40
 
 del "%WORKSPACE%\ftpcmd.dat"
 
-ECHO "TWST"
+ECHO "this is test 1.1"
